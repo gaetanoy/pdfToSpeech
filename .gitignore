@@ -167,3 +167,4 @@ cython_debug/
 /.idea/PdfToSpeech.iml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/inspectionProfiles/Project_Default.xml
+/test.mp3
